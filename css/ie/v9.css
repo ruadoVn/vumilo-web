@@ -35,7 +35,7 @@
 						url('../images/bgbl.svg') bottom left no-repeat,
 						url('../images/bgbl.svg') bottom left no-repeat,
 						url('../images/overlay.png'),
-						url('images/221s.PNG');
+						url('images/contetnt-style1.svg');
 		}
 
 		.main > .content.style2
@@ -44,7 +44,7 @@
 						url('../images/bgbl.svg') bottom left no-repeat,
 						url('../images/bgbl.svg') bottom left no-repeat,
 						url('../images/overlay.png'),
-						url('images/221s.PNG');
+						url('images/content-style2.svg');
 		}
 
 		.main > .content.style3
@@ -53,5 +53,5 @@
 						url('../images/bgbl.svg') bottom left no-repeat,
 						url('../images/bgbl.svg') bottom left no-repeat,
 						url('../images/overlay.png'),
-						url('images/221s.PNG');
+						url('images/content-style3.svg');
 		}
